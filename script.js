@@ -6,3 +6,5 @@ function displayFrogName(event) {
   let dogname = document.querySelector("#dogname").value;
   document.body.append(dogname);
 }
+
+
